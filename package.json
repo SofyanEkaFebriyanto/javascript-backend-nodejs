@@ -1,0 +1,16 @@
+{
+  "name": "javascript-backend-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "nyala": "nodemon index.js"
+  },
+  "author": "SofyanEkaFebriyanto",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@arismun/format-rupiah": "^3.0.0",
+    "nodemon": "^3.1.7",
+    "rupiah-format": "^1.0.0"
+  }
+}
